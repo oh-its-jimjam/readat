@@ -1,0 +1,2 @@
+# readat
+positional file reading 
