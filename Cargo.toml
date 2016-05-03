@@ -1,0 +1,7 @@
+[package]
+name = "readat"
+version = "0.1.0"
+authors = ["James Perry <james.austin.perry@gmail.com>"]
+
+[dependencies]
+libc = "0.2.10"
