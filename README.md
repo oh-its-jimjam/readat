@@ -1,5 +1,5 @@
 # readat
-`readat` is a Rust library for efficient file reading that is missing from Rust's standard library.
+`readat` is a Rust library for efficient file reading that is missing from Rust's standard library. It enables to perform file read operations on the same open file from multiple threads or processes without the operations interfering with one another's position.
 
 ## How to use it?
 
